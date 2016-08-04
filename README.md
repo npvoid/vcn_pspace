@@ -1,8 +1,8 @@
 # vcn_pspace
 
-Analyzing  the parameter space of VCN cells
-Click "launch binder" below,
-then click "VCN_pspace.ipynb"
-and the "Cell" -> "Run All"
+Analyzing  the parameter space of VCN cells /n
+Click "launch binder" below, /n
+then click "VCN_pspace.ipynb" /n
+and the "Cell" -> "Run All" /n
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/npvoid/vcn_pspace)
